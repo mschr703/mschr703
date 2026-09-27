@@ -1,67 +1,18 @@
-<div align="center">
+# 👋 Hi there, I'm Maxim
+
+**Apprentice in Application Development**
+
+> Focusing on writing clean code, learning new technologies, and building solid applications.
+
+I'm currently doing my apprenticeship in application development. I have a strong interest in understanding how things work under the hood and continuously expanding my skillset. I enjoy tackling technical challenges and improving my workflow step by step.
+
+Outside of writing code, I'm always experimenting with new tools, tinkering with different setups, and looking for new things to learn.
 
 <br>
 
-# <i>Hi, I'm Maxim</i>
+### 🔗 Connect
+[Website](https://mschr.de) ╱ [LinkedIn](https://www.linkedin.com/in/maxim-schreiner-05b463386)
 
-<br>
-
----
-
-<br>
-
-<table>
-  <tr>
-    <td align="center" width="50%">
-
-<img src="https://github.com/mschr703.png" width="90" style="border-radius:50%;" />
-
-### Maxim
-
-`Web Developer` · `Creative Coder` · `AI Tools`
-
-<br>
-
-Building clean websites, tools and small games.
-
-</td>
-    <td align="center" width="50%">
-
-### Current Focus
-
-`Web Design`  
-`Python`  
-`JavaScript`  
-`Unity`  
-`AI Workflows`
-
-<br>
-
-</td>
-  </tr>
-</table>
-
-<br>
-
-### LET'S CONNECT!
-
-<br>
-
-<a href="https://mschr.de">
-  <img src="https://img.shields.io/badge/Website-0d1117?style=for-the-badge&logo=google-chrome&logoColor=white" />
-</a>
-<a href="mailto:mschreiner703@gmail.com">
-  <img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-<br>
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=mschr703&style=flat-square&color=7d8590" />
-
-<br>
-<br>
-
----
-
-</div>
+### 📌 Details
+* 📫 **Reach me:** [contact@mschr.de](mailto:contact@mschr.de)
+* 💻 **Currently focusing on:** Application development & software architecture

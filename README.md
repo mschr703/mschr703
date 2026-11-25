@@ -1,11 +1,7 @@
 <div align="center">
-
-# Hi, I'm Maxim 👋
-
-**Application development apprentice building practical tools for software development.**
-
-[Branchloom](https://github.com/mschr703/branchloom) · [All repositories](https://github.com/mschr703?tab=repositories) · [Website](https://mschr.de)
-
+  <h1>Hi, I'm Maxim 👋</h1>
+  <p><strong>Application development apprentice building practical tools for software development.</strong></p>
+  <p><a href="https://github.com/mschr703/branchloom">Branchloom</a> · <a href="https://github.com/mschr703?tab=repositories">All repositories</a> · <a href="https://mschr.de">Website</a></p>
 </div>
 
 ## About me

@@ -28,11 +28,9 @@ Branchloom is an **early Windows preview**. [Explore the source](https://github.
 
 TypeScript · JavaScript · Python · React · Electron · HTML/CSS · Git
 
-## Contribution game
+## Contributions
 
-![My GitHub contributions as an animated space shooter](contribution-game.gif)
-
-A space shooter built from my public GitHub contribution graph. The animation updates daily with [gh-space-shooter](https://github.com/czl9707/gh-space-shooter).
+![Animated contribution grid with a small ship](contribution-game.gif)
 
 ## Contact
 

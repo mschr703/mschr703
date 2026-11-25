@@ -165,7 +165,7 @@ function renderCalendar(year) {
     cell.dataset.level = LEVEL[info.level] ?? 0;
     cell.dataset.count = info.count;
     cell.dataset.date = dateString;
-    cell.setAttribute("aria-label", `${info.count} contributions on ${dateString}`);
+    cell.setAttribute("aria-label", `${info.count} contribution${info.count === 1 ? "" : "s"} on ${dateString}`);
     cell.addEventListener("mouseenter", () => showTooltip(cell));
     cell.addEventListener("mouseleave", hideTooltip);
     cell.addEventListener("focus", () => showTooltip(cell));

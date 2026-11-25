@@ -1,22 +1,37 @@
-# Hi there, I'm Maxim
+<div align="center">
 
-> Focusing on writing clean code, learning new technologies, and building solid applications.
+# Hi, I'm Maxim 👋
 
-I'm currently doing my apprenticeship in application development. I have a strong interest in understanding how things work under the hood and continuously expanding my skillset. I enjoy tackling technical challenges and improving my workflow step by step.
+**Application development apprentice building practical tools for software development.**
 
-Outside of writing code, I'm always experimenting with new tools, tinkering with different setups, and looking for new things to learn.
+[Branchloom](https://github.com/mschr703/branchloom) · [All repositories](https://github.com/mschr703?tab=repositories) · [Website](https://mschr.de)
 
-<br>
+</div>
 
-### Current Tech Stack
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+## About me
 
-<br>
+I'm an application development apprentice who enjoys building practical software and understanding how it works under the hood.
 
-### Connect & Contact
-[![Website](https://img.shields.io/badge/Website-333333?style=for-the-badge&logo=googlechrome&logoColor=white)](https://mschr.de)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maxim-schreiner-05b463386)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@mschr.de)
+My main project is **Branchloom**: a local Windows app that brings project tasks, coding assistants, design drafts and code review into one workspace. It helps you take an idea through to a checked result while keeping you in control of what gets integrated.
+
+## Featured project: Branchloom
+
+[![Branchloom board with synthetic sample tasks](https://raw.githubusercontent.com/mschr703/branchloom/main/docs/assets/branchloom-board.png)](https://github.com/mschr703/branchloom)
+
+- **Plan:** Capture ideas as notes or board tasks and organize work in configurable workflows.
+- **Build:** Run installed coding assistants locally. Independent tasks can use separate Git worktrees.
+- **Review:** Inspect sessions, code changes and test evidence before integrating a result.
+
+Branchloom is an **early Windows preview**. [Explore the source](https://github.com/mschr703/branchloom) · [Get the latest release](https://github.com/mschr703/branchloom/releases/latest) · [Read the current status](https://github.com/mschr703/branchloom/blob/main/docs/STATUS.md)
+
+## Also building
+
+**[Jarvis Local](https://github.com/mschr703/jarvis-local-assistant)** — A German-language assistant for Windows with chat, document search, drafts, tasks and reminders in a local interface. It also has bounded PC and browser tools.
+
+## Tools I use
+
+TypeScript · JavaScript · Python · React · Electron · HTML/CSS · Git
+
+## Contact
+
+[Website](https://mschr.de) · [LinkedIn](https://www.linkedin.com/in/maxim-schreiner-05b463386) · [Email](mailto:contact@mschr.de)

@@ -5,6 +5,7 @@ on:
     paths:
       - .github/workflows/contribution-game.yml
       - scripts/render_contribution_game.py
+      - scripts/export_contributions.py
   schedule:
     - cron: "17 4 * * *"
   workflow_dispatch:
@@ -30,11 +31,15 @@ jobs:
         env:
           GH_TOKEN: ${{ github.token }}
         run: python scripts/render_contribution_game.py --username mschr703 --output contribution-game.gif
+      - name: Export yearly calendars
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: python scripts/export_contributions.py
       - name: Commit animation
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add contribution-game.gif
+          git add contribution-game.gif docs/contributions.json
           if git diff --cached --quiet; then
             echo "Animation unchanged"
             exit 0

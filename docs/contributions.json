@@ -1832,7 +1832,7 @@
       ]
     },
     "2026": {
-      "total": 1100,
+      "total": 1224,
       "days": [
         {
           "date": "2026-01-01",
@@ -2187,7 +2187,7 @@
         {
           "date": "2026-03-12",
           "count": 29,
-          "level": "FIRST_QUARTILE"
+          "level": "SECOND_QUARTILE"
         },
         {
           "date": "2026-03-13",
@@ -2212,7 +2212,7 @@
         {
           "date": "2026-03-17",
           "count": 74,
-          "level": "SECOND_QUARTILE"
+          "level": "THIRD_QUARTILE"
         },
         {
           "date": "2026-03-18",
@@ -3182,7 +3182,7 @@
         {
           "date": "2026-09-27",
           "count": 109,
-          "level": "THIRD_QUARTILE"
+          "level": "FOURTH_QUARTILE"
         },
         {
           "date": "2026-09-28",
@@ -3442,7 +3442,7 @@
         {
           "date": "2026-11-18",
           "count": 35,
-          "level": "FIRST_QUARTILE"
+          "level": "SECOND_QUARTILE"
         },
         {
           "date": "2026-11-19",
@@ -3476,7 +3476,12 @@
         },
         {
           "date": "2026-11-25",
-          "count": 166,
+          "count": 178,
+          "level": "FOURTH_QUARTILE"
+        },
+        {
+          "date": "2026-11-26",
+          "count": 112,
           "level": "FOURTH_QUARTILE"
         }
       ]

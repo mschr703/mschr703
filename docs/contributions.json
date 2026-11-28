@@ -1832,7 +1832,7 @@
       ]
     },
     "2026": {
-      "total": 1282,
+      "total": 1325,
       "days": [
         {
           "date": "2026-01-01",
@@ -3486,6 +3486,11 @@
         },
         {
           "date": "2026-11-27",
+          "count": 43,
+          "level": "SECOND_QUARTILE"
+        },
+        {
+          "date": "2026-11-28",
           "count": 17,
           "level": "FIRST_QUARTILE"
         }
